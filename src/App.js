@@ -3,8 +3,6 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Home from './Components/Home/Home';
 import Projects from './Components/Projects/Projects';
 import Main from './Layout/Main';
-import About from './Components/Home/About';
-import Skills from './Components/Home/Skills';
 import Project3 from './Components/Projects/Project3';
 import Project2 from './Components/Projects/Project2';
 import Project1 from './Components/Projects/Project1';
