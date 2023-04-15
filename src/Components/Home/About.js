@@ -53,7 +53,7 @@ const About = () => {
                   variant="h6"
                   sx={{ mb: 3, p: 2, color: "gray", fontWeight: "bold" }}
                 >
-                  I'm studying BSC in CSE. I love Web development and and I have
+                  I'm studying B.Sc in CSE. I love Web development and and I have
                   acquired skills and knowledge to make projects successful.
                 </Typography>
 
